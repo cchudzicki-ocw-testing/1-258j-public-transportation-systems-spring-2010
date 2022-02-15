@@ -8,7 +8,6 @@ menu:
     name: Calendar
     weight: 20
 title: Calendar
-type: course
 uid: ad63fa29-4831-401e-b75e-1fb1649c74f5
 ---
 

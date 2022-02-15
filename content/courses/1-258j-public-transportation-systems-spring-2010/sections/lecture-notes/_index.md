@@ -8,7 +8,6 @@ menu:
     name: Lecture Notes
     weight: 40
 title: Lecture Notes
-type: course
 uid: bef2d15f-c2be-e5d5-3bbd-907ea8c9faea
 ---
 

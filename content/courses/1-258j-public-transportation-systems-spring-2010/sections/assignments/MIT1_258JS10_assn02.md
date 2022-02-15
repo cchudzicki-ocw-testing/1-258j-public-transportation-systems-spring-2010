@@ -7,6 +7,5 @@ file_location: /coursemedia/1-258j-public-transportation-systems-spring-2010/c1d
 file_type: application/pdf
 layout: pdf
 title: MIT1_258JS10_assn02.pdf
-type: course
 uid: c1ddd0e3-c34e-cbce-ae0d-620170432a5d
 ---
